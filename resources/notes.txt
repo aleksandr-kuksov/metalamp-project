@@ -1,0 +1,51 @@
+ui-kit
+//Карточки
+ — Найдём номера под ваши пожелания (find-room)
+ — Регистрация аккаунта (registration)
+ — Войти (login)
+ — № заказа +
+ — Календарь +
+ — Карточка товара 888 (card * 2)
+//header
+ — Меню гостя
+ — Меню пользователя авторизованного
+//footer
+ — футер
+ — футер для мобильной версии
+//form elements
+ — text field (default/hover-focus) +
+ — dropdown сколько гостей (default/selected) +
+ — dropdown сколько комнат / кроватей /ванных (default/selected) +
+ — masked text field +
+ — date Dropdown (default/selected) +
+ — filter date dropdown +
+ — subscription text field +
+ — expandable checkbox list(default/selected)+
+ — rich Checkbox Buttons + 
+ — bullet list +
+ — преимущества (2 карточки) advantage + 
+ — отзыв feedback +
+ — Checkbox Buttons(default/selected) + 
+ — Radio Buttons(default/selected)+
+ — Toggle(default/selected) +
+ — like button(default/selected)+
+ — rate button(default/selected)+
+ — Range Slider(default/selected)+
+ — buttons(default/focus/hover/active/disabled)+
+ — links (default/disabled) +
+ — оплата btn-payment +
+ — pagination +
+
+Website pages
+ — landing-page
+ — landing-page_dates-dropdown
+ — landing-page_guests-dropdown
+ — search-room/Filter
+ — Search room/Filter/Preferences Expandable Checkbox list
+ — Search room/Filter/Preferences Dropdown
+ — room-details
+ — sign-in
+ — Registration
+├─
+
+

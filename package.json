@@ -1,0 +1,24 @@
+{
+  "name": "root-folder",
+  "version": "1.0.0",
+  "description": "'metalamp project'",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "aleksandr-kuksov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "git": "^0.1.5",
+    "pug": "^3.0.2",
+    "sass": "^1.43.4",
+    "webpack": "^5.64.3",
+    "webpack-cli": "^4.9.1"
+  }
+}
