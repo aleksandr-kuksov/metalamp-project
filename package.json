@@ -4,7 +4,8 @@
   "description": "'metalamp project'",
   "main": "index.js",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/aleksandr-kuksov/metalamp-project.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
