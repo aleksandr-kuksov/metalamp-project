@@ -7,10 +7,10 @@ A training project within the framework of an internship in the METALAMP company
 
 В проекте используются:
 
--Node.js
--NPM.js
--Pug.js
--Sass-Scss
--Git
--GitHub
+- Node.js
+- NPM.js
+- Pug.js
+- Sass-Scss
+- Git
+- GitHub
 
