@@ -18,7 +18,7 @@
   "devDependencies": {
     "git": "^0.1.5",
     "pug": "^3.0.2",
-    "sass": "^1.43.4",
+    "sass": "^1.43.5",
     "webpack": "^5.64.3",
     "webpack-cli": "^4.9.1"
   }
